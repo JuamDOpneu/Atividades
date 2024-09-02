@@ -7,7 +7,7 @@ public class atividades7 {
         num1 = sc.nextDouble();
         double num2 = 0;
         num2 = sc.nextDouble();
-         else if () {
+         if () {
 
         }
 
