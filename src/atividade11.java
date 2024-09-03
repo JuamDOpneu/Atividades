@@ -6,6 +6,8 @@ public class atividade11 {
         double bonus = 0;
         double salbrutocomimposto = 0;
         double imposto = 0;
+
+
         Scanner brutinho = new Scanner(System.in);
         System.out.println("Informe seu salário bruto: ");
         double salarioBruto = brutinho.nextDouble();
